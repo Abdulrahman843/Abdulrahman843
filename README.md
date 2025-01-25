@@ -45,7 +45,7 @@ Getting started with Git and GitHub for collaboration and version control.
 
 Pronouns: He/Him
 
-**Fun Fact
+## **Fun Fact
 Did you know that Tim Berners-Lee, the inventor of the World Wide Web, originally proposed the idea in 1989 while working at CERN? His vision for sharing information over the internet has evolved into the digital world we know today!**
 
 💡 I am proud to be part of a legacy of innovation that continues to shape the digital world through my contributions to web development and immersive technologies!
