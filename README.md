@@ -32,13 +32,13 @@ Back-End: Node.js, Express, MongoDB, Mongoose, and authentication with JSON Web 
 Other Skills: Data visualization and creating dynamic, responsive web applications.
 Currently, I am participating in a volunteer program with Bincom Global, where I am honing my skills in mobile app development using Cordova, Android Studio, Gradle, and the Angular framework.
 
-Ask Me About:
+## Ask Me About:
 💡 For Beginners:
 Kickstarting your journey into full-stack web development.
 Understanding the basics of HTML, CSS, and JavaScript, and how they work together to create dynamic web applications.
 Getting started with Git and GitHub for collaboration and version control.
 
-How to Reach Me
+## How to Reach Me
 📧 Email: **energyspur@gmail.com**
 🔗 LinkedIn: **www.linkedin.com/in/abdulrahman-adewale-laoye-0bb28b105**
 💻 GitHub: Follow me to see my latest projects and contributions!
