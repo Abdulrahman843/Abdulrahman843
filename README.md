@@ -5,7 +5,8 @@ Welcome to my GitHub profile!
 ## About Me
 
 I am a versatile professional with a rich background in civil engineering and web development. Over my career, I have worked on various projects in infrastructure development, oil and gas facility construction, roadworks, and hydraulic structures. I have embarked on an exciting journey in web development, honing my skills in both front-end and back-end development. Over time, I have gained significant experience and built a solid foundation in creating dynamic, user-friendly web applications.
-Current Work and Interests
+
+## Current Work and Interests
 
 🚀 Current Focus:
 
@@ -24,7 +25,7 @@ Advancing my skills in 3D modeling and immersive environment design for AR/VR ap
 Understanding best practices for optimizing VR/AR web applications across different devices.
 Mastering user interface design in 3D spaces.
 
-My Journey
+## My Journey
 I completed a six-month intensive full-stack web development bootcamp on the HyperionDev platform in partnership with CoGrammar, graduating with a 99% score. During this program, I developed proficiency in:
 Front-End: HTML, CSS, JavaScript, React, and Bootstrap.
 Back-End: Node.js, Express, MongoDB, Mongoose, and authentication with JSON Web Tokens (JWT).
