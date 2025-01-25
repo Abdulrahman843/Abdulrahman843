@@ -36,6 +36,7 @@ Ask Me About:
 Kickstarting your journey into full-stack web development.
 Understanding the basics of HTML, CSS, and JavaScript, and how they work together to create dynamic web applications.
 Getting started with Git and GitHub for collaboration and version control.
+
 How to Reach Me
 📧 Email: **energyspur@gmail.com**
 🔗 LinkedIn: **www.linkedin.com/in/abdulrahman-adewale-laoye-0bb28b105**
