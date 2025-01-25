@@ -29,7 +29,7 @@ _Pronouns: He/Him_
       He envisioned a system for sharing and accessing information over the internet, laying the foundation for what we now know as the modern web. Even with just a month into my full-stack journey,
       I am already part of a legacy of innovation that continues to shape the digital world today!**
 
-  <img src="file:///C:/Users/USER/Downloads/Laoye's%20pic2.jpg" alt="Laoye's picture">
+  <img src="Laoye's pic3.jpg" alt="Laoye's picture">
 
  -->
 
